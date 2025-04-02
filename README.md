@@ -17,7 +17,7 @@ Esta API permite la gestión de ganado bovino, incluyendo registro de animales, 
 - **Base de Datos:** PostgreSQL  
 - **Herramientas:** Docker, Postman, Git  
 
-## 🔑 **Ejemplo de Uso (Endpoints)**  EN PROCESO
+## 🔑 **Ejemplo de Uso (Endpoints)**  EN PROCESO 02/ABR/2025
 ### 🔹 Obtener lista de animales  
 ```bash
 GET /api/animales
